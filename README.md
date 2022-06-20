@@ -81,7 +81,7 @@ Project Link: [https://github.com/Ekodu/TeslaGameV1](https://github.com/sirincay
 
 ## Credit
 
-* [mikhailsdv](https://github.com/mikhailsdv/guess-the-age-bot)
+* [mikhailsdv](https://github.com/Ekodu/guess-the-age-bot)
 
 
 
